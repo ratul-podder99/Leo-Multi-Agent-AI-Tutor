@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+student_memory.json
+.streamlit/secrets.toml
