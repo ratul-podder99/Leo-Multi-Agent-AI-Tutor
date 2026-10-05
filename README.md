@@ -275,12 +275,6 @@ streamlit run app.py
 
 [CrewAI](https://docs.crewai.com) · [Streamlit](https://streamlit.io) · [Pydantic](https://docs.pydantic.dev) · [Groq](https://groq.com) (gpt-oss-120b) · python-dotenv
 
----
-
-## License
-
-Add your preferred license here (e.g. MIT) or remove this section.
-
 ## Author
 
-Your Name · `<your GitHub / email>`
+Ratul Podder
